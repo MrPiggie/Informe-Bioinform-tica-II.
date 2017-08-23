@@ -1,15 +1,15 @@
 # Informe Bioinformática II.
 Luciano Frez
+
 **Parte I**
 
 **¿Qué función cumple el gen SRY?**
 
-cumple funciones de unión de DNA, calmodulina vinculante, Actividad del factor de transcripción, ARN polimerasa II potenciador distal secuencia específica de unión y de Factor de transcripción vinculante.
-
+  Cumple funciones de unión de DNA, calmodulina vinculante, Actividad del factor de transcripción, ARN polimerasa II potenciador distal   secuencia específica de unión y de Factor de transcripción vinculante.
 
 **¿Cuántos genes ortólogos están anotados en esa base de datos?**
 
-Hay 26 genes ortólogos anotados en la base de datos.
+  Hay 26 genes ortólogos anotados en la base de datos.
 
 **Parte II**
 
@@ -24,18 +24,28 @@ Hay 26 genes ortólogos anotados en la base de datos.
 
 **¿Cuál es el costo de abrir un gap?**
 
-El costo de abrir un GAP es de 1.53.
-
+  El costo de abrir un GAP es de 1.53.
 
 **¿Cuál es el costo de extender un gap?**
 
-El costo de extender un GAP es de 0.123.
-
+  El costo de extender un GAP es de 0.123.
 
 **¿Cuál es la longitud total del alineamiento?**
-1923 T 8%
 
-Pan_troglodytes---mas cerca
-Pteropus_alecto---más lejano
-Equus_przewalskii---mas cerca burro
-es el mismo largo de la secuencia
+  La longitud total del alineamiento es de 1923 T 8%
+
+**¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?**
+
+  La especie cuyo gen SRY está más relacionado con el gen SRY de los humanos es el Pan_troglodytes
+
+**¿Cuál es el más lejano?**
+
+  La especie cuyo gen SRY está más lejano con el gen SRY de los humanos es el Pteropus_alecto
+
+**¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?**
+
+  La especie cuyo gen SRY es más cercana a la del burro es la Equus_przewalskii
+
+**¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?**
+
+  es el mismo largo de la secuencia
