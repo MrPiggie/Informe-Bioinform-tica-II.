@@ -11,6 +11,9 @@ cumple funciones de unión de DNA, calmodulina vinculante, Actividad del factor 
 
 Hay 26 genes ortólogos anotados en la base de datos.
 
+**Parte II**
+
+**¿Qué es el EMBL-EBI?**
 
 
 
