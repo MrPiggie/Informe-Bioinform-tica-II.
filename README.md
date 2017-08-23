@@ -35,4 +35,7 @@ El costo de extender un GAP es de 0.123.
 **¿Cuál es la longitud total del alineamiento?**
 1923 T 8%
 
-
+Pan_troglodytes---mas cerca
+Pteropus_alecto---más lejano
+Equus_przewalskii---mas cerca burro
+es el mismo largo de la secuencia
