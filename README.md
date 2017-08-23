@@ -1,2 +1,2 @@
-# Informe-Bioinform-tica-II.
+# Informe Bioinformática II.
 Luciano Frez
