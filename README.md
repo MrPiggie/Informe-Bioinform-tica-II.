@@ -19,7 +19,7 @@ Luciano Frez
 
 **¿Cuántos tipos de alienamiento múltiple se pueden realizar en EMBL-EBI?**
 
-       Tiene 7 tipos de secuanciadores de alineamiento múltiple, tales como: Clustal Omega, Kalign, MAFFT, MUSCLE, Sequence Alignments(también pude bisualizar alineamientos), T-Coffee y UniProt Align.
+      Tiene 7 tipos de secuanciadores de alineamiento múltiple, tales como: Clustal Omega, Kalign, MAFFT, MUSCLE, Sequence Alignments(también pude bisualizar alineamientos), T-Coffee y UniProt Align.
 
 **¿Cuál es el programa que ellos ofrecen que funciona mejor para secuencias de proteínas?**
         
@@ -54,7 +54,9 @@ Luciano Frez
     La especie cuyo gen SRY es más cercana a la del burro es la Equus_przewalskii
 
 **¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?**
+
 **¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?**
+
 *Prueba aumentando el costo de abrir gaps cambiando el valor de 1.53 a 2.0*
 
 **¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?**
