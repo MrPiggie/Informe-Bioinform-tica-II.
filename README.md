@@ -55,7 +55,11 @@ Luciano Frez
 
 **¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?**
 
+    El alineamiento será siempre el mismo, sólo cambiará el puntaje dado a ese alineamiento, ocacionando que si hay más de una, se eliga a la que tiene mejor puntaje. 
+
 **¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?**
+
+    El alineamiento será siempre el mismo, sólo cambiará el puntaje dado a ese alineamiento, ocacionando que si hay más de una, se eliga a la que tiene mejor puntaje. 
 
 *Prueba aumentando el costo de abrir gaps cambiando el valor de 1.53 a 2.0*
 
