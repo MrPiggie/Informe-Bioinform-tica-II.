@@ -1,7 +1,7 @@
 # Informe Bioinformática II.
 Luciano Frez
 
-**Parte I**
+# **Parte I**
 
 **¿Qué función cumple el gen SRY?**
 
@@ -11,7 +11,7 @@ Luciano Frez
 
     Hay 26 genes ortólogos anotados en la base de datos.
 
-**Parte II**
+# **Parte II**
 
 **¿Qué es el EMBL-EBI?**
 
@@ -61,5 +61,5 @@ Luciano Frez
 
 *prueba lo mismo pero esta vez disminuyendo al mínimo el costo de extender un gap. Describe cómo cambia el alineamiento*
 
-#**Parte III**
+# **Parte III**
    
