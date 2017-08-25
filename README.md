@@ -5,7 +5,7 @@ Luciano Frez
 
 **¿Qué función cumple el gen SRY?**
 
-    Cumple funciones de unión de DNA, calmodulina vinculante, Actividad del factor de transcripción, ARN polimerasa II potenciador distal   secuencia específica de unión y de Factor de transcripción vinculante.
+    Cumple funciones de unión de DNA, calmodulina vinculante, Actividad del factor de transcripción, ARN polimerasa II potenciador   distal   secuencia específica de unión y de Factor de transcripción vinculante.
 
 **¿Cuántos genes ortólogos están anotados en esa base de datos?**
 
@@ -15,12 +15,19 @@ Luciano Frez
 
 **¿Qué es el EMBL-EBI?**
 
+    En el Instituto Europeo de Bioinformática (EMBL-EBI). entregan a la  comunidad científica datos biológicos públicos del mundo a través de una gama de servicios y herramientas, realizan investigaciones básicas y ofrecen formación profesional en bioinformática. **(1)** 
 
 **¿Cuántos tipos de alienamiento múltiple se pueden realizar en EMBL-EBI?**
 
+       Tiene 7 tipos de secuanciadores de alineamiento múltiple, tales como: Clustal Omega, Kalign, MAFFT, MUSCLE, Sequence Alignments(también pude bisualizar alineamientos), T-Coffee y UniProt Align.
+
 **¿Cuál es el programa que ellos ofrecen que funciona mejor para secuencias de proteínas?**
+        
+        El programa que ellos ofrecen que funciona mejor para secuencias de proteínas es el MUSCLE, el cual consigue una mejor exactitud media y una mejor velocidad que ClustalW2 o T-Coffee
 
 **¿Qué otros tipo de herramientas ofrece EMBL-EBI?**
+
+    EMBL-EBI ofrece otros tipos de herramientas para buscar: estructuras moleculares, DNA back.translation, secuaencias similares, CpG island and isochore detection, Pairwise sequence alignment(para alineamiento local y global), Protein property calculation, Protein hydropathy calculation entre otros.
 
 **¿Cuál es el costo de abrir un gap?**
 
