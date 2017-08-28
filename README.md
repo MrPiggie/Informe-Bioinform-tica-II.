@@ -55,16 +55,18 @@ Luciano Frez
 
 **¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?**
 
-    El alineamiento será siempre el mismo, sólo cambiará el puntaje dado a ese alineamiento, ocacionando que si hay más de una,  el programa eligirá a la que tiene mejor puntaje. 
+    Si el puntaje de penalización de abrir gaps aumenta, entonces el programa tenderá a tener una menor cantidad de gaps pero con una mayor extensión cada uno.
 
 **¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?**
 
-    El alineamiento será siempre el mismo, sólo cambiará el puntaje dado a ese alineamiento, ocacionando que si hay más de una, el programa eligirá a la que tiene mejor puntaje. 
+    Si el puntaje de extender un gap aumenta, entonces el programa va a tender a favorecer muchos gaps de muy corta longitud.
 
 *Prueba aumentando el costo de abrir gaps cambiando el valor de 1.53 a 2.0*
 
-**¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?**
+**¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?** 
 
+    Al aumentar de 1.53 a 2.00, la longitud total del consensus fue la misma que en 1.53. Esto se deba probablemente a que los dominios que conforman a la proteína homóloga estén conservados evolutivamente (además de ser relativamente corta). Para el valor '0,1' en extender gap, el resultado fue que la longitud total del fragmento consensus disminuyó a 1907 (vs el 1932). Esto es porque los gaps que se abrieron son de menor longitud.
+    
 *prueba lo mismo pero esta vez disminuyendo al mínimo el costo de extender un gap. Describe cómo cambia el alineamiento*
 
 # **Parte III**
