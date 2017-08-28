@@ -74,3 +74,7 @@ Luciano Frez
 ![imagen 1](https://github.com/MrPiggie/Informe-Bioinform-tica-II./blob/master/primers.fasta.png?raw=true)
 
 **Imagen I:** Primers para las secuencias de Chlorocebus sabaeus, Homo sapiens, Pan troglodytes y Macaca Mulatta. 
+
+# **Bibliografía:**
+
+(1) http://www.ebi.ac.uk/about
