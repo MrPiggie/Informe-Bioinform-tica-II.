@@ -55,17 +55,17 @@ Luciano Frez
 
 **¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?**
 
-    Si el puntaje de penalización de abrir gaps aumenta, entonces el programa tenderá a tener una menor cantidad de gaps pero con una mayor extensión cada uno.
+    Si el valor de penalización por abrir gaps aumenta, el programa colocará una menor cantidad de gaps, pero de mayor longitud cada uno. Y si disminuye la penalización, el programa colocará una mayor cantidad de gaps de un tamaño menor](extensión de gaps) para así lograr que las secuencias puedan ser comparables respecto al largo de estas.
 
 **¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?**
 
-    Si el puntaje de extender un gap aumenta, entonces el programa va a tender a favorecer muchos gaps de muy corta longitud.
-
+    Si el valor de penalización por extender gaps aumenta, el programa utilizará gaps de mayor longitud para no extenderlos y así impedir la penalización de abrir uno nuevo. Por el contrario, si el valor disminuye, el programa hará uso de la facultad para extender gaps, colocando gaps de menor longitud.
+    
 *Prueba aumentando el costo de abrir gaps cambiando el valor de 1.53 a 2.0*
 
 **¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?** 
 
-    Al aumentar de 1.53 a 2.00, la longitud total del consensus fue la misma que en 1.53. Esto se deba probablemente a que los dominios que conforman a la proteína homóloga estén conservados evolutivamente (además de ser relativamente corta). Para el valor '0,1' en extender gap, el resultado fue que la longitud total del fragmento consensus disminuyó a 1907 (vs el 1932). Esto es porque los gaps que se abrieron son de menor longitud.
+    El efecto de aumentar el costo de abrir un gap(1.53 a 2.00) en la longitud del alineamiento fue nulo. Esto es probablemente a que los dominios que conforman la proteína homóloga estén conservados evolutivamente. Para el valor mínimo de extender un gap(0,1), el resultado fue que la longitud total del alineamiento disminuyó de 1932 a 1907. Esto es porque los gaps que se abrieron son de menor longitud.
     
 *prueba lo mismo pero esta vez disminuyendo al mínimo el costo de extender un gap. Describe cómo cambia el alineamiento*
 
